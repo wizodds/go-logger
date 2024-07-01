@@ -49,4 +49,4 @@ Output
 Licensed under the MIT License - see the [LICENSE][2] file for details.
 
 [1]: https://github.com/uber-go/zap
-[2]: https://github.com/i14t/go-logger/blob/main/LICENSE
+[2]: https://github.com/wizodds/go-logger/blob/main/LICENSE
